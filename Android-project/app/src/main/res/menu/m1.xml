@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/i1"
+        android:enabled="true"
+        android:title="Department" >
+    </item>
+
+    <item
+        android:id="@+id/i2"
+        android:enabled="true"
+        android:title="Department labs" >
+    </item>
+
+
+    <item
+        android:id="@+id/i3"
+        android:enabled="true"
+        android:title="Faculty" >
+    </item>
+
+    <item
+        android:id="@+id/i4"
+        android:enabled="true"
+        android:title="Classrooms" >
+    </item>
+
+
+
+</menu>
